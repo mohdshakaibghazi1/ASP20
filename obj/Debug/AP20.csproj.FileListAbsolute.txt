@@ -1,0 +1,8 @@
+C:\Users\moham\source\repos\AssistedProject\AP20\AP20\bin\Debug\AP20.exe.config
+C:\Users\moham\source\repos\AssistedProject\AP20\AP20\bin\Debug\AP20.exe
+C:\Users\moham\source\repos\AssistedProject\AP20\AP20\bin\Debug\AP20.pdb
+C:\Users\moham\source\repos\AssistedProject\AP20\AP20\obj\Debug\AP20.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\AssistedProject\AP20\AP20\obj\Debug\AP20.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\source\repos\AssistedProject\AP20\AP20\obj\Debug\AP20.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\AssistedProject\AP20\AP20\obj\Debug\AP20.exe
+C:\Users\moham\source\repos\AssistedProject\AP20\AP20\obj\Debug\AP20.pdb
